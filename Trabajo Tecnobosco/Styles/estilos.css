@@ -1,0 +1,45 @@
+table {
+    border-style: solid;
+}
+h1, h4, p, h2, h3, h5{
+
+    font-family: Arial;
+   
+    }
+.td1{
+    color: white;
+}
+td{
+  color: black;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+#carouselExampleControls{
+  width: 250px;
+  height: 250px;
+  left: 50px;
+}
+#uno{
+  left: 1250px;
+}
+#centrar{
+  left: 300px;
+}
+.contenedor10{
+  display: flex;
+  flex-direction: row;
+  column-gap: 70px;
+}
+.contenedor11{
+  display: flex;
+  flex-direction: row;
+  column-gap: 400px;
+}
+.contenedor12{
+  display: flex;
+  flex-direction: row;
+  column-gap: 150px;
+}
